@@ -1,3 +1,33 @@
 body, html {
   font-size: 12px;
 }
+#div1
+{
+	background-color: red;
+}
+h1.title
+{
+	color: grey;
+	text-align: center;
+}
+h1
+{ 
+	font-family: sans-serif
+}
+#orderedList
+{
+	color: grey;
+}
+#kennywood
+{
+	float: left;
+	width: 100px;
+}
+#meAndA
+{
+	width: 200px;
+}
+p
+{
+	background-color: orange;
+}
